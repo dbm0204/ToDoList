@@ -1,7 +1,6 @@
 package com.example.dbm0204.my_to_do_app;
-
 /**
- * Created by dbm0204 on 6/29/17.
+ * This class holds the list of tasks and displays them in the Recycle View/
  */
 import android.content.Context;
 import java.net.ConnectException;
